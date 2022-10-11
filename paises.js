@@ -12,6 +12,7 @@ const fetchData = async () =>{
     }
 
  };
+ 
 
  fetchData()
 const input = document.querySelector('#buscar');
